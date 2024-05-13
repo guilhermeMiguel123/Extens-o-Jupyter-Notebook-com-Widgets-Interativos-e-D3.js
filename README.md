@@ -1,5 +1,5 @@
 ###Extensão Jupyter Notebook com Widgets Interativos e D3.js
-Esta é uma extensão para o Jupyter Notebook que adiciona funcionalidades de widgets interativos e integração com a biblioteca D3.js para criar visualizações dinâmicas.
+Esta é uma extensão para o Jupyter Notebook que adiciona funcionalidades de widgets interativos e integração com a biblioteca D3.js para criar visualizações dinâmicas.###
 
 Instalação
 Para instalar esta extensão, siga os passos abaixo:
