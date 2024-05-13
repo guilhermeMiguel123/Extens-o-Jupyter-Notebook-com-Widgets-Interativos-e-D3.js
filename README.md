@@ -20,24 +20,6 @@ Se desejar personalizar ou expandir esta extensão, você pode editar os arquivo
 Suporte
 Se encontrar algum problema ou tiver alguma dúvida sobre esta extensão, sinta-se à vontade para abrir uma issue neste repositório.
 
-Como usar
-
-Instalação:
-
-Certifique-se de ter o Jupyter Notebook instalado.
-Clone o repositório da extensão para o seu computador ou baixe os arquivos main.js, widgets.js e d3_integration.js.
-Copie esses arquivos para o diretório de extensões personalizadas do Jupyter Notebook. O diretório geralmente está localizado em ~/.jupyter/custom/ no seu sistema.
-Inicialização do Jupyter Notebook:
-
-Após instalar a extensão, inicie o Jupyter Notebook como de costume.
-Uso dos Widgets Interativos:
-
-Ao criar um novo notebook ou abrir um existente, você verá os widgets interativos inseridos automaticamente em uma célula do notebook.
-Você pode interagir com esses widgets, como deslizar um controle deslizante ou inserir valores em um campo de entrada, para ver os resultados atualizados dinamicamente no notebook.
-Integração com D3.js:
-
-Você pode criar visualizações dinâmicas usando a biblioteca D3.js diretamente no seu notebook. Para isso, insira o código necessário em uma célula do notebook, conforme exemplificado no arquivo d3_integration.js. Isso criará a visualização dentro do notebook quando a célula for executada.
-
 Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests com melhorias, correções de bugs ou novos recursos.
 
